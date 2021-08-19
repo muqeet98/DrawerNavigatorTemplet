@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "487035434758",
+      "project_id": "universityportal-c06d5",
+      "storage_bucket": "universityportal-c06d5.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:487035434758:android:e06281ba59e10be9f05087",
+          "android_client_info": {
+            "package_name": "com.fyp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "487035434758-kmn5hbsdf8dto6rbmk1aoqak7g9ok2af.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.fyp",
+              "certificate_hash": "ea453b1c389c64289c7c9b42cbb6300837ff15db"
+            }
+          },
+          {
+            "client_id": "487035434758-4uogc16cgthmf04bgj1q0rd4iot6t16c.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBVgTo5toTPA3IBpfnuA9SkjLgdWRxxohc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "487035434758-4uogc16cgthmf04bgj1q0rd4iot6t16c.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

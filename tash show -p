@@ -1,0 +1,19 @@
+ App.js                                   |    79 [32m+[m[31m-[m
+ Login.js                                 |   309 [32m+[m[31m-[m
+ RegisterScr.js                           |     2 [32m+[m
+ Student/Announcement.js                  |    99 [32m+[m[31m-[m
+ Student/Assignment.js                    |   334 [32m+[m[31m-[m
+ Student/ClassDashboard.js                |   132 [32m+[m[31m-[m
+ Student/MyClass.js                       |   112 [32m+[m[31m-[m
+ Student/Quiz.js                          |   117 [32m+[m[31m-[m
+ Student/StudentReg.js                    |   656 [32m+[m[31m-[m
+ android/app/build.gradle                 |     2 [32m+[m[31m-[m
+ android/app/src/main/AndroidManifest.xml |     9 [32m+[m[31m-[m
+ android/build.gradle                     |     1 [32m+[m
+ metro.config.js                          |     3 [32m+[m
+ navigation/drawerNav.js                  |    11 [32m+[m[31m-[m
+ navigation/navigator.js                  |   106 [32m+[m[31m-[m
+ package-lock.json                        | 12017 [32m+++++++++++++++++++++++++[m[31m-[m
+ package.json                             |    12 [32m+[m[31m-[m
+ yarn.lock                                | 13287 [32m++++++++++++++++[m[31m-------------[m
+ 18 files changed, 20445 insertions(+), 6843 deletions(-)
